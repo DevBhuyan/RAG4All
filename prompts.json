@@ -1,0 +1,6 @@
+{
+    "DISCLAIMER": "This ChatBot uses an RAG system based on PII-masked data.",
+    "OUT_OF_CONTEXT": "I'm afraid I can only answer queries relevant to my knowledge base. Please let me know if you have any other queries.",
+    "RESTRICTED": "Hi! You're trying to access content that is restricted. If you think you're a valid user, enter the passcode",
+    "HAPPY_GREET": "Happy to help you!"
+}
